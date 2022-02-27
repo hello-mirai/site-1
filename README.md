@@ -27,7 +27,7 @@ Let us help you create your new site — you won’t believe how simple it is to
     ‘Subscribe to Mailing List’ facility.
     Show a calendar of upcoming events.
     
- ## Optional Extras
+## Optional Extras
 
     MARKETING PACK
 
@@ -49,7 +49,7 @@ Let us help you create your new site — you won’t believe how simple it is to
 
     Google My Business is a free service offered by Google available to everyone.
     
-  ## Ongoing Costs
+ ## Ongoing Costs
 
     HOSTING & FULL ACCESS TO ADMIN PAGE
 
@@ -59,7 +59,7 @@ Let us help you create your new site — you won’t believe how simple it is to
 
     With access to the admin page of your site you can add new content, delete old stuff, replace images or create a new blog post.  With some basic training, anyone can do it.
     
-  ## Premium Websites
+ ## Premium Websites
 
 Sell Products
 Book Appointments
